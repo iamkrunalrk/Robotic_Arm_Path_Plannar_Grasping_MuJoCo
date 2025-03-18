@@ -1,4 +1,4 @@
-# Robotic Arm to Plan Paths for Grasping Objects using RRT in MuJoCo
+# High-Dimensional Path Planning with Optimized RRT
 
 This repository provides a simulation environment for a robotic arm to plan paths for grasping objects within a scene using Rapidly-exploring Random Trees (RRT), implemented in MuJoCo.
 
